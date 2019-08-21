@@ -5,15 +5,15 @@
 Basic Information:
 
 
-Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo.
+Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo ZhangXu
 
 
-Start date: April 24th, 2019.
+Start date: August 23th, 2019.
 
 
 Function description:
 
-Develop a demo app that display a flame model using the Adreno GPU SDK.
+Develop a demonstration application to display a variable-color flame model using Adreno GPU SDK.
 
 
 
@@ -51,7 +51,7 @@ Document introduction:
 
 Usage Instructions:
 
-1、Download code from github according to the repository from　“https://github.com/ThunderSoft-XA/Adreno-Burning-Flame.git”.
+1、Download code from github according to the repository from　“https://github.com/ThunderSoft-XA/Burning-Flame2.0.git”.
 2、Install Adreno GPU SDK v5.0.
 3、Install Android NDK r17b.
 4、Install Apache Ant 1.9.14.
