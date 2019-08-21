@@ -5,7 +5,7 @@
 Basic Information:
 
 
-Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo ZhangXu
+Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo、ZhangXu
 
 
 Start date: August 23th, 2019.
