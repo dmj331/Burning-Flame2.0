@@ -48,12 +48,25 @@ Document introduction:
 ===>Scene.h:   Main scene header file.
 
 
+Performance testing：
 
+Performance Analysis of CPU and GPU Using Snapdragon Profiler.
+
+===>Click Enter
+    |
+    |--Connect           Connect Android Devices
+    |--Launch            Launch Application
+    |--Select CPU Utilization and GPU Utilization To analysis of CPU and GPU performance
+    
+    
 Usage Instructions:
 
 1、Download code from github according to the repository from　“https://github.com/ThunderSoft-XA/Burning-Flame2.0.git”.
+
 2、Install Adreno GPU SDK v5.0.
+
 3、Install Android NDK r17b.
+
 4、Install Apache Ant 1.9.14.
 5、Install Snapdragon Profiler.
 6、Compile APK source code and install it to android device.
