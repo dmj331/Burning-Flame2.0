@@ -68,8 +68,12 @@ Usage Instructions:
 3、Install Android NDK r17b.
 
 4、Install Apache Ant 1.9.14.
+
 5、Install Snapdragon Profiler.
+
 6、Compile APK source code and install it to android device.
+
 7、Open the APK, and you will enjoy it.
+
 8、If you care about some performance indicators, you can use Snapdragon Profiler to view it.
 
